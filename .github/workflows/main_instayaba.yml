@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'instayaba'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_96C51337EA8642AB84E77764768FCA37 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BA2206945B69489ABF62659A14E52725 }}
           package: .
